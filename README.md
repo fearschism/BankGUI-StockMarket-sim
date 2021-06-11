@@ -1,4 +1,5 @@
 # BankGUI-StockMarket-sim
+# project built using Jquery
 A fully automated/fake stockmarket with Fake coins and stocks that the user can buy and sell from.
 this will be created by html-css-js and then implemented into BankGUI-ElectronJS project
 
